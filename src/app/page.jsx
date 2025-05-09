@@ -101,7 +101,7 @@ export default function Home() {
           }}
         >
           <PartyPopper className="w-6 h-6" />
-          <span className="text-xl">For you</span>
+          <span className="text-xl">Chalo Chalo ab click karo Jaan</span>
           <MoveRight className="w-5 stroke-3 h-6" />
         </motion.button>
       </motion.div>}

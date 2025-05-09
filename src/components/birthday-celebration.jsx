@@ -117,9 +117,13 @@ export default function BirthdayCelebration() {
         transition={{ delay: 1 }}
       >
         <div className="text-center">
+          <h1 className="text-lg text-pink-700 mb-4"><b>Stay with me Forever mera Baccha</b></h1>
           <p className="text-lg text-purple-700 mb-4">
-          May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
-          </p>
+          May every <b>good and safe</b> wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.</p>
+          <p className="text-lg text-purple-700 mb-4"> <span  className="text-lg text-pink-700 mb-4">I love you so much</span> and I’m so grateful to have you in my life. You make every day brighter and more beautiful. </p>
+          <p className="text-lg text-purple-700 mb-4">Thank you for being you. I will always be here for you in each and every situation, cheering you on and supporting you in everything you do. I want you to stay with me forever I just love you so much, and I hope you have the most amazing birthday ever! </p>
+          <p className="text-lg text-pink-700 mb-4">I will always protect you and mai hameha tere saath hu... Hope your love for me will grow one day and we'll be the most perfect couple ever.</p>
+          <h1 className="text-lg text-pink-700 mb-4">I love you</h1>
           <div className="flex justify-center items-center gap-2">
             <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>
           </div>
